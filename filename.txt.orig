@@ -7,6 +7,9 @@ first branch
 first branch first branch first branch
 first branch first branch
 first branch first branch first branch
-first branch first branch first branch first branch
+<<<<<<< HEAD
 
 first branch first branch first branch
+=======
+first branch first branch first branch first branch
+>>>>>>> 9826186 (rebase 2)
