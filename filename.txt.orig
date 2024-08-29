@@ -1,0 +1,11 @@
+filename
+first branch
+second branch
+first branch
+first branch
+<<<<<<< HEAD
+first branch first branch
+=======
+
+first branch first branch first branch
+>>>>>>> 628312d (commit 4)
